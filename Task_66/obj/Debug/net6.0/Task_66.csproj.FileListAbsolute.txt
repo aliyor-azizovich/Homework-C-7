@@ -1,0 +1,15 @@
+E:\Geek_Brains\CSharp\Homework-C-7\Task_66\bin\Debug\net6.0\Task_66.exe
+E:\Geek_Brains\CSharp\Homework-C-7\Task_66\bin\Debug\net6.0\Task_66.deps.json
+E:\Geek_Brains\CSharp\Homework-C-7\Task_66\bin\Debug\net6.0\Task_66.runtimeconfig.json
+E:\Geek_Brains\CSharp\Homework-C-7\Task_66\bin\Debug\net6.0\Task_66.dll
+E:\Geek_Brains\CSharp\Homework-C-7\Task_66\bin\Debug\net6.0\Task_66.pdb
+E:\Geek_Brains\CSharp\Homework-C-7\Task_66\obj\Debug\net6.0\Task_66.csproj.AssemblyReference.cache
+E:\Geek_Brains\CSharp\Homework-C-7\Task_66\obj\Debug\net6.0\Task_66.GeneratedMSBuildEditorConfig.editorconfig
+E:\Geek_Brains\CSharp\Homework-C-7\Task_66\obj\Debug\net6.0\Task_66.AssemblyInfoInputs.cache
+E:\Geek_Brains\CSharp\Homework-C-7\Task_66\obj\Debug\net6.0\Task_66.AssemblyInfo.cs
+E:\Geek_Brains\CSharp\Homework-C-7\Task_66\obj\Debug\net6.0\Task_66.csproj.CoreCompileInputs.cache
+E:\Geek_Brains\CSharp\Homework-C-7\Task_66\obj\Debug\net6.0\Task_66.dll
+E:\Geek_Brains\CSharp\Homework-C-7\Task_66\obj\Debug\net6.0\refint\Task_66.dll
+E:\Geek_Brains\CSharp\Homework-C-7\Task_66\obj\Debug\net6.0\Task_66.pdb
+E:\Geek_Brains\CSharp\Homework-C-7\Task_66\obj\Debug\net6.0\Task_66.genruntimeconfig.cache
+E:\Geek_Brains\CSharp\Homework-C-7\Task_66\obj\Debug\net6.0\ref\Task_66.dll

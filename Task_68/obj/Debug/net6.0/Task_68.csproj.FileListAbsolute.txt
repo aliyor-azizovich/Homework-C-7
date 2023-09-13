@@ -1,0 +1,15 @@
+E:\Geek_Brains\CSharp\Homework-C-7\Task_68\bin\Debug\net6.0\Task_68.exe
+E:\Geek_Brains\CSharp\Homework-C-7\Task_68\bin\Debug\net6.0\Task_68.deps.json
+E:\Geek_Brains\CSharp\Homework-C-7\Task_68\bin\Debug\net6.0\Task_68.runtimeconfig.json
+E:\Geek_Brains\CSharp\Homework-C-7\Task_68\bin\Debug\net6.0\Task_68.dll
+E:\Geek_Brains\CSharp\Homework-C-7\Task_68\bin\Debug\net6.0\Task_68.pdb
+E:\Geek_Brains\CSharp\Homework-C-7\Task_68\obj\Debug\net6.0\Task_68.csproj.AssemblyReference.cache
+E:\Geek_Brains\CSharp\Homework-C-7\Task_68\obj\Debug\net6.0\Task_68.GeneratedMSBuildEditorConfig.editorconfig
+E:\Geek_Brains\CSharp\Homework-C-7\Task_68\obj\Debug\net6.0\Task_68.AssemblyInfoInputs.cache
+E:\Geek_Brains\CSharp\Homework-C-7\Task_68\obj\Debug\net6.0\Task_68.AssemblyInfo.cs
+E:\Geek_Brains\CSharp\Homework-C-7\Task_68\obj\Debug\net6.0\Task_68.csproj.CoreCompileInputs.cache
+E:\Geek_Brains\CSharp\Homework-C-7\Task_68\obj\Debug\net6.0\Task_68.dll
+E:\Geek_Brains\CSharp\Homework-C-7\Task_68\obj\Debug\net6.0\refint\Task_68.dll
+E:\Geek_Brains\CSharp\Homework-C-7\Task_68\obj\Debug\net6.0\Task_68.pdb
+E:\Geek_Brains\CSharp\Homework-C-7\Task_68\obj\Debug\net6.0\Task_68.genruntimeconfig.cache
+E:\Geek_Brains\CSharp\Homework-C-7\Task_68\obj\Debug\net6.0\ref\Task_68.dll
